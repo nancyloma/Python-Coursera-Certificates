@@ -1,5 +1,8 @@
 # Crash-Course-on-Python-by-Google
 A part of specialization of "Google IT Automation with Python Professional Certificate" course offered by Google on Coursera 
+
+<a href="https://www.coursera.org/account/accomplishments/verify/4P86M6PSGDTU"><img src="https://i.ibb.co/JcfXd2G/Coursera-Python.jpg" alt="Coursera-Python" border="0"></a>
+
  - **Week 2: Basic Python Syntax**    
     - [x] Practice Quiz: Expressions and Variables
     - [x] Practice Quiz: Functions
